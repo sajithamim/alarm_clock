@@ -23,7 +23,7 @@ Alarm Trigger
 
 Clone the repository:
 
-git clone https://github.com/sajithamim/alarm_clock
+git clone https://github.com/sajithamim/alarm_clock.git
 
 Run the application:
 

@@ -18,3 +18,13 @@ Alarm Manager
 Scheduler
  |
 Alarm Trigger
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/sajithamim/alarm_clock
+
+Run the application:
+
+python main.py
